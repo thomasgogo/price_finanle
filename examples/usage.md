@@ -27,7 +27,7 @@ cp env.example .env.local
 编辑 `.env.local` 文件：
 
 ```env
-TENCENT_SECRET_ID=AKIDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TENCENT_SECRET_ID=xxxxxxxx
 TENCENT_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TENCENT_REGION=ap-guangzhou
 ```
